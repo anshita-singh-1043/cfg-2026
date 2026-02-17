@@ -6,7 +6,7 @@
 
 ## Requirements
 * Language: Python 3.14.3
-* Libraries: os, time, psutil, biopython, pandas, numpy, collections, sklearn, matplotlib
+* Libraries: os, time, psutil, pyfaidx, pandas, numpy, collections, sklearn.metrics (roc_curve, precision_recall_curve, auc), matplotlib
 * Fasta file: 'hg38.fa' (download 'hg38.fa.gz' from here: https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/, and gunzip it) 
 
 ## File structure
@@ -17,6 +17,7 @@
 ## How to run
 * Run the script from terminal and follow the input instructions:
   python cfg_midsem.py
+  
   
   
 
