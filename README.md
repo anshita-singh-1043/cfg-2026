@@ -1,8 +1,8 @@
 # Computational Functional Genomics, Jan 2026 - Project
 
 ### Team
-Anshita Singh <anshita.singh@students.iiserpune.ac.in>
-Karuna Prakash <karuna.prakash@students.iiserpune.ac.in>
+* Anshita Singh <anshita.singh@students.iiserpune.ac.in>
+* Karuna Prakash <karuna.prakash@students.iiserpune.ac.in>
 
 ## Requirements
 * Language: Python 3.14.3
@@ -15,7 +15,7 @@ Karuna Prakash <karuna.prakash@students.iiserpune.ac.in>
 * 'data/' - contains fasta files and .tsv files 
 
 ## How to run
-* Run the script from terminal and follow the input instructions
+* Run the script from terminal and follow the input instructions:
   python cfg_midsem.py
   
   
