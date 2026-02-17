@@ -12,7 +12,7 @@
 ## File structure
 * 'cfg_project.py' - primary script file
 * 'SimplerVersion.py' - simpler version of the primary script 
-* 'chr{p}_200bp_bins.tsv' - ChIP seq data, contains information about which parts of the chr p (p being any of the chromosome numbers except 3,10 and 17) are bound and unbound to variopus transcription factors (EP300, CTCF, REST). Please note that the unknown tsvs are not uploaded here.
+* 'chr{p}_200bp_bins.tsv' - ChIP seq data, contains information about which parts of the chr p (p being any of the chromosome numbers except 3,10 and 17) are bound and unbound to various transcription factors (EP300, CTCF, REST). Please note that the unknown tsvs are not uploaded here.
 * 'fastafile.fa' - sample fasta file to test SimplerVersion.py on
 
 
