@@ -10,8 +10,8 @@
 * Fasta file: 'hg38.fa' (download 'hg38.fa.gz' from here: https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/, and gunzip it) 
 
 ## File structure
-* 'cfg_midsem.py' - primary script file
-* 'SimpleVersion.py' - simpler version of the primary script 
+* 'cfg_project.py' - primary script file
+* 'SimplerVersion.py' - simpler version of the primary script 
 * 'chr{p}_200bp_bins.tsv' - ChIP seq data, contains information about which parts of the chr p (p being any of the chromosome numbers except 3,10 and 17) are bound and unbound to variopus transcription factors (EP300, CTCF, REST)
 * 'fastafile.fa' - sample fasta file to test SimpleVersion.py on
 
