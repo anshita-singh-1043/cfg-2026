@@ -15,8 +15,8 @@
 * 'data/' - contains fasta files and .tsv files 
 
 ## How to run
-* Run the script from terminal and follow the input instructions:
-  python cfg_midsem.py
+* Run the script from terminal (python cfg_markov.py) and follow the input instructions that are shown on the screen.
+
   
   
   
