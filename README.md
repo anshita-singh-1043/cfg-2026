@@ -5,7 +5,7 @@
 * Karuna Prakash <karuna.prakash@students.iiserpune.ac.in>
 
 ## Requirements
-* Language: Python 3.14.3
+* Language: Python 3.11
 * Libraries: os, time, psutil, pyfaidx, pandas, numpy, collections, sklearn.metrics (roc_curve, precision_recall_curve, auc), matplotlib
 * Fasta file: 'hg38.fa' (download 'hg38.fa.gz' from here: https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/, and gunzip it)
 
