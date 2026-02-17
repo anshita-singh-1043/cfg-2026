@@ -12,7 +12,8 @@
 ## File structure
 * 'cfg_midsem.py' - primary script file
 * 'SimpleVersion.py' - simpler version of the primary script 
-* 'data/' - contains fasta files and .tsv files 
+* 'chr{p}_200bp_bins.tsv' - ChIP seq data, contains information about which parts of the chr p (p being any of the chromosome numbers except 3,10 and 17) are bound and unbound to variopus transcription factors (EP300, CTCF, REST)
+
 
 ## How to run
 * Run the script from terminal (python cfg_markov.py) and follow the input instructions that are shown on the screen.
